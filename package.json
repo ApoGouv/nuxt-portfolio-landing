@@ -9,12 +9,10 @@
     "postinstall": "nuxt prepare",
     "lint": "eslint .",
     "typecheck": "nuxt typecheck",
-    "generate": "nuxt build && nuxt generate",
-    "serve:dist": "serve dist",
-    "generate:local": "cross-env BASE_URL=/ npm run generate",
-    "generate:ghpages": "cross-env BASE_URL=/nuxt-portfolio-landing/ npm run generate",
-    "preview:local": "npm run generate:local && serve dist",
-    "deploy": "npm run generate:ghpages && gh-pages -d dist -b gh-pages"
+    "generate": "nuxt generate",
+    "serve:dist": "serve .output/public",
+    "deploy": "npm run generate && gh-pages --dotfiles -d .output/public -b gh-pages",
+    "deploy:ghpages": "npx gh-pages --dotfiles -d .output/public -b gh-pages"
   },
   "dependencies": {
     "@iconify-json/lucide": "^1.2.74",

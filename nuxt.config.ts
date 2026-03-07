@@ -13,15 +13,15 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
 
   // Static generation / prerender
-  ssr: true, // enable SSR for hydration
+  ssr: true, // https://nuxt.com/docs/4.x/getting-started/deployment#static-hosting
   nitro: {
-    preset: 'static'
+    preset: 'github-pages'
   },
 
   app: {
     // base URL for deployment
-    // '/nuxt-portfolio-landing/' if using GitHub Pages repo
-    baseURL: process.env.BASE_URL || '/' // fallback to '/' if env not set
+    // '/nuxt-portfolio-landing/' if using GitHub Pages repo via NUXT_APP_BASE_URL
+    baseURL: '/nuxt-portfolio-landing/'
   },
 
   routeRules: {
