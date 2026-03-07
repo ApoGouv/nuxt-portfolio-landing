@@ -1,0 +1,1327 @@
+<template>
+  <svg
+    id="cube-designs-logo"
+    class="logo-svg logo-animate"
+    width="445"
+    height="514"
+    viewBox="0 0 445.798 514.85"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g id="cubes" class="cubes-wrapper" stroke="#a9a9a9" fill="#f5f5f5">
+      <g id="cube-neutral-74" class="cube cube-neutral">
+        <path
+          id="path1"
+          d="m225.197 256.678-44.4-25.7-.2 50.8 44.5 26.2.1-51.3"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path2"
+          d="m269.397 230.978-44.4-25.7-44.2 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path3"
+          d="m269.397 230.978-44.2 25.7-.1 51.3 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-73" class="cube cube-neutral">
+        <path
+          id="path4"
+          d="m180.997 282.478-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path5"
+          d="m225.197 256.778-44.5-25.71-44.1 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path6"
+          d="m225.197 256.778-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-72" class="cube cube-neutral">
+        <path
+          id="path7"
+          d="m136.797 308.378-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path8"
+          d="m180.997 282.678-44.4-25.7-44.2 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path9"
+          d="m180.997 282.678-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-71" class="cube cube-neutral">
+        <path
+          id="path10"
+          d="m92.497 334.178-44.5-25.8-.1 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path11"
+          d="m136.697 308.378-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path12"
+          d="m136.697 308.378-44.2 25.8-.1 51.2 44.4-25.8-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-70" class="cube cube-neutral">
+        <path
+          id="path13"
+          d="m269.597 282.478-44.5-25.7-.1 50.8 44.4 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path14"
+          d="m313.797 256.778-44.5-25.71-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path15"
+          d="m313.797 256.778-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-69" class="cube cube-neutral">
+        <path
+          id="path16"
+          d="m314.097 308.178-44.5-25.7-.2 50.8 44.5 26.2.2-51.3"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path17"
+          d="m358.197 282.478-44.4-25.7-44.2 25.7 44.5 25.7 44.1-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path18"
+          d="m358.197 282.478-44.1 25.7-.2 51.3 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-68" class="cube cube-neutral">
+        <path
+          id="path19"
+          d="m358.497 333.978-44.5-25.8-.1 50.9 44.4 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path20"
+          d="m402.697 308.178-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path21"
+          d="m402.697 308.178-44.2 25.8-.2 51.2 44.5-25.7-.1-51.3"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-67" class="cube cube-neutral">
+        <path
+          id="path22"
+          d="m225.197 205.478-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path23"
+          d="m269.397 179.778-44.4-25.71-44.2 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path24"
+          d="m269.397 179.778-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-66" class="cube cube-neutral">
+        <path
+          id="path25"
+          d="m180.797 231.278-44.5-25.7-.1 50.8 44.4 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path26"
+          d="m224.997 205.578-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path27"
+          d="m224.997 205.578-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-65" class="cube cube-neutral">
+        <path
+          id="path28"
+          d="m136.597 257.178-44.5-25.7-.1 50.8 44.4 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path29"
+          d="m180.797 231.478-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path30"
+          d="m180.797 231.478-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-64" class="cube cube-neutral">
+        <path
+          id="path31"
+          d="m92.297 282.978-44.5-25.8-.2 50.8 44.5 26.2.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path32"
+          d="m136.397 257.178-44.4-25.7-44.2 25.7 44.5 25.8 44.1-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path33"
+          d="m136.397 257.178-44.1 25.8-.2 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-63" class="cube cube-neutral">
+        <path
+          id="path34"
+          d="m225.097 154.378-44.5-25.8-.1 50.9 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path35"
+          d="m269.297 128.578-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path36"
+          d="m269.297 128.578-44.2 25.8-.1 51.2 44.4-25.7-.1-51.3"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-62" class="cube cube-neutral">
+        <path
+          id="path37"
+          d="m180.597 180.178-44.5-25.8-.1 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path38"
+          d="m224.797 154.378-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path39"
+          d="m224.797 154.378-44.2 25.8-.1 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-61" class="cube cube-neutral">
+        <path
+          id="path40"
+          d="m136.397 206.068-44.4-25.8-.2 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path41"
+          d="m180.597 180.278-44.5-25.7-44.1 25.7 44.4 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path42"
+          d="m180.597 180.278-44.2 25.79-.1 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-60" class="cube cube-neutral">
+        <path
+          id="path43"
+          d="m92.097 231.778-44.5-25.71-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path44"
+          d="m136.297 206.068-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path45"
+          d="m136.297 206.068-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-59" class="cube cube-neutral">
+        <path
+          id="path46"
+          d="m224.997 103.178-44.5-25.7-.2 50.8 44.5 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path47"
+          d="m269.097 77.478-44.4-25.7-44.2 25.7 44.5 25.7 44.1-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path48"
+          d="m269.097 77.478-44.1 25.7-.2 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-58" class="cube cube-neutral">
+        <path
+          id="path49"
+          d="m180.497 128.978-44.5-25.7-.1 50.8 44.4 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path50"
+          d="m224.697 103.278-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path51"
+          d="m224.697 103.278-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-57" class="cube cube-neutral">
+        <path
+          id="path52"
+          d="m136.297 154.878-44.5-25.7-.1 50.8 44.4 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path53"
+          d="m180.497 129.178-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path54"
+          d="m180.497 129.178-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-56" class="cube cube-neutral">
+        <path
+          id="path55"
+          d="m91.997 180.578-44.5-25.7-.2 50.8 44.5 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path56"
+          d="m136.097 154.878-44.4-25.7-44.2 25.7 44.5 25.7 44.1-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path57"
+          d="m136.097 154.878-44.1 25.7-.2 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-55" class="cube cube-neutral">
+        <path
+          id="path58"
+          d="m224.997 52.068-44.5-25.8-.1 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path59"
+          d="m269.197 26.278-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path60"
+          d="m269.197 26.278-44.2 25.79-.1 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-54" class="cube cube-neutral">
+        <path
+          id="path61"
+          d="m180.497 77.778-44.4-25.71-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path62"
+          d="m224.697 52.068-44.4-25.7-44.2 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path63"
+          d="m224.697 52.068-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-53" class="cube cube-neutral">
+        <path
+          id="path64"
+          d="m136.397 103.678-44.5-25.7-.2 50.8 44.5 26.2.2-51.3"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path65"
+          d="m180.497 77.978-44.4-25.7-44.2 25.7 44.5 25.7 44.1-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path66"
+          d="m180.497 77.978-44.1 25.7-.2 51.3 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-52" class="cube cube-neutral">
+        <path
+          id="path67"
+          d="m91.997 129.478-44.4-25.8-.2 50.9 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path68"
+          d="m136.197 103.678-44.5-25.7-44.1 25.7 44.4 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path69"
+          d="m136.197 103.678-44.2 25.8-.1 51.2 44.5-25.7-.2-51.3"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-51" class="cube cube-neutral">
+        <path
+          id="path70"
+          d="m225.497 308.278-44.5-25.7-.2 50.8 44.5 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path71"
+          d="m269.697 282.578-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path72"
+          d="m269.697 282.578-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-50" class="cube cube-neutral">
+        <path
+          id="path73"
+          d="m269.897 333.978-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path74"
+          d="m314.097 308.278-44.4-25.7-44.2 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path75"
+          d="m314.097 308.278-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-49" class="cube cube-neutral">
+        <path
+          id="path76"
+          d="m314.397 359.778-44.5-25.8-.1 50.8 44.4 26.2.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path77"
+          d="m358.597 333.978-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path78"
+          d="m358.597 333.978-44.2 25.8-.2 51.2 44.5-25.8-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-48" class="cube cube-neutral">
+        <path
+          id="path79"
+          d="m181.497 334.178-44.5-25.8-.2 50.8 44.5 26.2.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path80"
+          d="m225.697 308.378-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path81"
+          d="m225.697 308.378-44.2 25.8-.2 51.2 44.5-25.8-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-47" class="cube cube-neutral">
+        <path
+          id="path82"
+          d="m225.897 359.878-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path83"
+          d="m270.097 334.178-44.4-25.7-44.2 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path84"
+          d="m270.097 334.178-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-46" class="cube cube-neutral">
+        <path
+          id="path85"
+          d="m270.397 385.578-44.5-25.7-.1 50.8 44.4 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path86"
+          d="m314.597 359.878-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path87"
+          d="m314.597 359.878-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-45" class="cube cube-neutral">
+        <path
+          id="path88"
+          d="m137.097 359.778-44.4-25.7-.2 50.8 44.5 26.2.1-51.3"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path89"
+          d="m181.297 334.068-44.5-25.7-44.1 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path90"
+          d="m181.297 334.068-44.2 25.7-.1 51.3 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-44" class="cube cube-neutral">
+        <path
+          id="path91"
+          d="m181.597 385.578-44.5-25.8-.1 50.9 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path92"
+          d="m225.797 359.778-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path93"
+          d="m225.797 359.778-44.2 25.8-.1 51.2 44.4-25.7-.1-51.3"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-43" class="cube cube-neutral">
+        <path
+          id="path94"
+          d="m225.997 411.278-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path95"
+          d="m270.197 385.578-44.4-25.8-44.2 25.8 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path96"
+          d="m270.197 385.578-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-42" class="cube cube-neutral">
+        <path
+          id="path97"
+          d="m269.697 230.978-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path98"
+          d="m313.897 205.278-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path99"
+          d="m313.897 205.278-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-41" class="cube cube-neutral">
+        <path
+          id="path100"
+          d="m314.197 256.678-44.5-25.7-.1 50.8 44.5 26.2.1-51.3"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path101"
+          d="m358.397 230.978-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path102"
+          d="m358.397 230.978-44.2 25.7-.1 51.3 44.4-25.8-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-40" class="cube cube-neutral">
+        <path
+          id="path103"
+          d="m358.597 282.478-44.4-25.8-.2 50.9 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path104"
+          d="m402.797 256.678-44.5-25.7-44.1 25.7 44.4 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path105"
+          d="m402.797 256.678-44.2 25.8-.1 51.2 44.5-25.7-.2-51.3"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-39" class="cube cube-neutral">
+        <path
+          id="path106"
+          d="m269.697 180.068-44.5-25.8-.2 50.9 44.5 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path107"
+          d="m313.797 154.278-44.4-25.7-44.2 25.7 44.5 25.8 44.1-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path108"
+          d="m313.797 154.278-44.1 25.79-.2 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-38" class="cube cube-neutral">
+        <path
+          id="path109"
+          d="m314.097 205.778-44.4-25.71-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path110"
+          d="m358.297 180.068-44.5-25.8-44.1 25.8 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path111"
+          d="m358.297 180.068-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-37" class="cube cube-neutral">
+        <path
+          id="path112"
+          d="m358.597 231.478-44.5-25.7-.2 50.8 44.5 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path113"
+          d="m402.797 205.778-44.5-25.71-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path114"
+          d="m402.797 205.778-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-36" class="cube cube-neutral">
+        <path
+          id="path115"
+          d="m269.697 129.178-44.5-25.8-.1 50.9 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path116"
+          d="m313.897 103.378-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path117"
+          d="m313.897 103.378-44.2 25.8-.1 51.2 44.5-25.7-.2-51.3"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-35" class="cube cube-neutral">
+        <path
+          id="path118"
+          d="m314.197 154.878-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path119"
+          d="m358.397 129.178-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path120"
+          d="m358.397 129.178-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-34" class="cube cube-neutral">
+        <path
+          id="path121"
+          d="m358.597 180.578-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path122"
+          d="m402.797 154.878-44.5-25.7-44.1 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path123"
+          d="m402.797 154.878-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-33" class="cube cube-neutral">
+        <path
+          id="path124"
+          d="m269.497 77.878-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path125"
+          d="m313.697 52.178-44.5-25.8-44.1 25.8 44.4 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path126"
+          d="m313.697 52.178-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-32" class="cube cube-neutral">
+        <path
+          id="path127"
+          d="m313.997 103.578-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path128"
+          d="m358.197 77.878-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path129"
+          d="m358.197 77.878-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-31" class="cube cube-neutral">
+        <path
+          id="path130"
+          d="m358.397 129.378-44.4-25.8-.2 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path131"
+          d="m402.597 103.578-44.4-25.7-44.2 25.7 44.4 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path132"
+          d="m402.597 103.578-44.2 25.8-.1 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-30" class="cube cube-neutral">
+        <path
+          id="path133"
+          d="m402.897 359.678-44.5-25.7-.2 50.8 44.5 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path134"
+          d="m446.997 333.978-44.4-25.8-44.2 25.8 44.5 25.7 44.1-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path135"
+          d="m446.997 333.978-44.1 25.7-.2 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-d-29" class="cube cube-d">
+        <path
+          id="path136"
+          d="m358.697 385.478-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path137"
+          d="m402.897 359.778-44.4-25.8-44.2 25.8 44.4 25.7 44.2-25.7"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path138"
+          d="m402.897 359.778-44.2 25.8-.1 51.2 44.5-25.7-.2-51.3"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-28" class="cube cube-d">
+        <path
+          id="path139"
+          d="m314.697 411.278-44.4-25.7-.2 50.8 44.5 26.2.1-51.3"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path140"
+          d="m358.897 385.578-44.4-25.7-44.2 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path141"
+          d="m358.897 385.578-44.2 25.7-.1 51.3 44.5-25.8-.2-51.2"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-27" class="cube cube-d">
+        <path
+          id="path142"
+          d="m270.397 436.978-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path143"
+          d="m314.597 411.278-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path144"
+          d="m314.597 411.278-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-26" class="cube cube-d">
+        <path
+          id="path145"
+          d="m402.997 308.178-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path146"
+          d="m447.197 282.478-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path147"
+          d="m447.197 282.478-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-25" class="cube cube-d">
+        <path
+          id="path148"
+          d="m402.897 257.278-44.4-25.8-.2 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path149"
+          d="m446.097 231.478-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path150"
+          d="m447.097 231.478-44.2 25.8-.1 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-24" class="cube cube-d">
+        <path
+          id="path151"
+          d="m402.997 206.378-44.5-25.8-.1 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path152"
+          d="m447.197 180.578-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path153"
+          d="m447.197 180.578-44.2 25.8-.1 51.2 44.4-25.8-.1-51.2"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-neutral-23" class="cube cube-neutral">
+        <path
+          id="path154"
+          d="m402.797 155.068-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path155"
+          d="m446.997 129.378-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path156"
+          d="m446.997 129.378-44.2 25.69-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-d-22" class="cube cube-d">
+        <path
+          id="path157"
+          d="m270.397 385.878-44.4-25.8-.2 50.9 44.5 26.1.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path158"
+          d="m314.597 360.068-44.4-25.7-44.2 25.7 44.4 25.8 44.2-25.8"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path159"
+          d="m314.597 360.068-44.2 25.8-.1 51.2 44.5-25.7-.2-51.3"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-21" class="cube cube-d">
+        <path
+          id="path160"
+          d="m270.297 334.678-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path161"
+          d="m314.497 308.978-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path162"
+          d="m314.497 308.978-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-20" class="cube cube-d">
+        <path
+          id="path163"
+          d="m270.197 283.578-44.5-25.8-.2 50.8 44.5 26.2.2-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path164"
+          d="m314.297 257.778-44.4-25.71-44.2 25.7 44.5 25.8 44.1-25.8"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path165"
+          d="m314.297 257.778-44.1 25.8-.2 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-19" class="cube cube-d">
+        <path
+          id="path166"
+          d="m358.597 180.778-44.4-25.71-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path167"
+          d="m402.797 155.068-44.5-25.7-44.1 25.7 44.4 25.7 44.2-25.7"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path168"
+          d="m402.797 155.068-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-18" class="cube cube-d">
+        <path
+          id="path169"
+          d="m314.597 206.678-44.4-25.8-.2 50.9 44.5 26.1.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path170"
+          d="m358.797 180.878-44.5-25.7-44.1 25.7 44.4 25.8 44.2-25.8"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path171"
+          d="m358.797 180.878-44.2 25.8-.1 51.2 44.5-25.7-.2-51.3"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-d-17" class="cube cube-d">
+        <path
+          id="path172"
+          d="m270.297 232.378-44.5-25.8-.1 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-d-left"
+        />
+        <path
+          id="path173"
+          d="m314.497 206.578-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-d-top"
+        />
+        <path
+          id="path174"
+          d="m314.497 206.578-44.2 25.8-.1 51.2 44.4-25.8-.1-51.2"
+          class="face face-right face-d-right"
+        />
+      </g>
+      <g id="cube-c-16" class="cube cube-c">
+        <path
+          id="path175"
+          d="m47.997 359.778-44.4-25.8-.2 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path176"
+          d="m92.197 333.978-44.4-25.7-44.2 25.7 44.4 25.8 44.2-25.8"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path177"
+          d="m92.197 333.978-44.2 25.8-.1 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-15" class="cube cube-c">
+        <path
+          id="path178"
+          d="m47.797 308.578-44.5-25.8-.1 50.8 44.4 26.2.2-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path179"
+          d="m91.997 282.778-44.5-25.71-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path180"
+          d="m91.997 282.778-44.2 25.8-.2 51.2 44.5-25.8-.1-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-14" class="cube cube-c">
+        <path
+          id="path181"
+          d="m47.597 257.378-44.4-25.7-.2 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path182"
+          d="m91.797 231.678-44.5-25.8-44.1 25.8 44.4 25.7 44.2-25.7"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path183"
+          d="m91.797 231.678-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-13" class="cube cube-c">
+        <path
+          id="path184"
+          d="m47.497 206.178-44.5-25.7-.1 50.8 44.4 26.1.2-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path185"
+          d="m91.697 180.478-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path186"
+          d="m91.697 180.478-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-12" class="cube cube-c">
+        <path
+          id="path187"
+          d="m47.597 155.068-44.5-25.8-.2 50.9 44.5 26.1.2-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path188"
+          d="m91.697 129.278-44.4-25.7-44.2 25.7 44.5 25.8 44.1-25.8"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path189"
+          d="m91.697 129.278-44.1 25.79-.2 51.2 44.5-25.7-.2-51.3"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-11" class="cube cube-c">
+        <path
+          id="path190"
+          d="m92.397 385.578-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path191"
+          d="m136.597 359.878-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path192"
+          d="m136.597 359.878-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-10" class="cube cube-c">
+        <path
+          id="path193"
+          d="m136.297 411.678-44.5-25.8-.1 50.8 44.4 26.2.2-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path194"
+          d="m181.097 385.578-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path195"
+          d="m181.097 385.578-44.2 25.8-.2 51.2 44.5-25.8-.1-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-9" class="cube cube-c">
+        <path
+          id="path196"
+          d="m181.297 437.068-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path197"
+          d="m225.497 411.378-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path198"
+          d="m225.497 411.378-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-8" class="cube cube-c">
+        <path
+          id="path221"
+          d="m92.165 180.879-44.5-25.8-.1 50.9 44.4 26.1.2-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path222"
+          d="m136.365 155.079-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path223"
+          d="m136.365 155.079-44.2 25.8-.2 51.2 44.5-25.8-.1-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-7" class="cube cube-c">
+        <path
+          id="path200"
+          d="m136.445 206.659-44.5-25.8-.1 50.9 44.4 26.1.2-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path201"
+          d="m180.645 180.859-44.5-25.7-44.2 25.7 44.5 25.8 44.2-25.8"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path202"
+          d="m180.645 180.859-44.2 25.8-.2 51.2 44.5-25.8-.1-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-c-6" class="cube cube-c">
+        <path
+          id="path203"
+          d="m180.997 232.378-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-c-left"
+        />
+        <path
+          id="path204"
+          d="m225.197 206.678-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-c-top"
+        />
+        <path
+          id="path205"
+          d="m225.197 206.678-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-c-right"
+        />
+      </g>
+      <g id="cube-neutral-5" class="cube cube-neutral">
+        <path
+          id="path206"
+          d="m225.697 462.778-44.5-25.7-.1 50.8 44.4 26.1.2-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path207"
+          d="m269.897 437.068-44.5-25.7-44.2 25.7 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path208"
+          d="m269.897 437.068-44.2 25.7-.2 51.2 44.5-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-4" class="cube cube-neutral">
+        <path
+          id="path209"
+          d="m225.597 411.278-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path210"
+          d="m269.797 385.578-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path211"
+          d="m269.797 385.578-44.2 25.7-.1 51.2 44.4-25.7-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-3" class="cube cube-neutral">
+        <path
+          id="path212"
+          d="m225.497 360.068-44.5-25.7-.2 50.8 44.5 26.2.2-51.3"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path213"
+          d="m269.697 334.378-44.5-25.7-44.2 25.7 44.5 25.69 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path214"
+          d="m269.697 334.378-44.2 25.69-.2 51.3 44.5-25.8-.1-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-2" class="cube cube-neutral">
+        <path
+          id="path215"
+          d="m225.297 308.978-44.5-25.7-.1 50.8 44.5 26.1.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path216"
+          d="m269.497 283.278-44.5-25.8-44.2 25.8 44.5 25.7 44.2-25.7"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path217"
+          d="m269.497 283.278-44.2 25.7-.1 51.2 44.5-25.7-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+      <g id="cube-neutral-1" class="cube cube-neutral">
+        <path
+          id="path218"
+          d="m225.497 257.978-44.4-25.8-.2 50.8 44.5 26.2.1-51.2"
+          class="face face-left face-neutral-left"
+        />
+        <path
+          id="path219"
+          d="m269.697 232.178-44.5-25.7-44.1 25.7 44.4 25.8 44.2-25.8"
+          class="face face-top face-neutral-top"
+        />
+        <path
+          id="path220"
+          d="m269.697 232.178-44.2 25.8-.1 51.2 44.5-25.8-.2-51.2"
+          class="face face-right face-neutral-right"
+        />
+      </g>
+    </g>
+  </svg>
+</template>
+
+<style scoped>
+.cubes-wrapper {
+  isolation: isolate;
+}
+
+.cube-neutral {
+  opacity: 0.9;
+}
+
+.cube-c,
+.cube-d {
+  opacity: 0.75;
+}
+
+.face {
+  stroke: #5588a2;
+  stroke-miterlimit: 10;
+}
+
+.face-neutral-left {
+  fill: #3b3b43;
+}
+
+.face-neutral-top {
+  fill: #303036;
+}
+
+.face-neutral-right {
+  fill: #2d2d33;
+}
+
+.face-d-left {
+  fill: #7fd8f6;
+}
+
+.face-d-top {
+  fill: #30bced;
+}
+
+.face-d-right {
+  fill: #09b0e8;
+}
+
+.face-c-left {
+  fill: #ff926f;
+}
+
+.face-c-top {
+  fill: #f15a29;
+}
+
+.face-c-right {
+  fill: #ce3a0b;
+}
+</style>
