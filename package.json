@@ -12,7 +12,9 @@
     "generate": "nuxt build && nuxt generate",
     "serve:dist": "serve dist",
     "generate:local": "cross-env BASE_URL=/ npm run generate",
-    "generate:ghpages": "cross-env BASE_URL=/nuxt-portfolio-landing/ npm run generate"
+    "generate:ghpages": "cross-env BASE_URL=/nuxt-portfolio-landing/ npm run generate",
+    "preview:local": "npm run generate:local && serve dist",
+    "deploy": "npm run generate:ghpages && gh-pages -d dist -b gh-pages"
   },
   "dependencies": {
     "@iconify-json/lucide": "^1.2.74",
@@ -26,6 +28,7 @@
     "baseline-browser-mapping": "^2.10.0",
     "cross-env": "^10.1.0",
     "eslint": "^9.38.0",
+    "gh-pages": "^6.3.0",
     "serve": "^14.2.6",
     "typescript": "^5.9.3",
     "vue-tsc": "^3.1.4"
